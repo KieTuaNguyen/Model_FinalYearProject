@@ -3,1089 +3,1256 @@
     "GeneralFeedbackID": 19792205,
     "ID": 0,
     "Content": "hàng chuẩn",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19179222,
     "ID": 0,
     "Content": "màn hình giao an toàn",
-    "AspectCategories": [
-      "Về Sản Phẩm",
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "màn hình",
-      "giao"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn hình"
+        ]
+      },
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "giao"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19179222,
     "ID": 1,
     "Content": "chất lượng hinh ảnh ok",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chất lượng hinh ảnh"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chất lượng hinh ảnh"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19179222,
     "ID": 2,
     "Content": "màu sắc ồn",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màu sắc"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màu sắc"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19179222,
     "ID": 3,
     "Content": "giao hàng nhanh",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "giao hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "giao hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19179222,
     "ID": 4,
     "Content": "đóng gói tốt",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "đóng gói"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "đóng gói"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19591230,
     "ID": 0,
     "Content": "giao hàng nhanh",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "giao hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "giao hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19591230,
     "ID": 1,
     "Content": "chất lượng cao",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chất lượng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chất lượng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19591230,
     "ID": 2,
     "Content": "màu sắc ổn",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màu sắc"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màu sắc"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19063111,
     "ID": 0,
     "Content": "ok",
-    "AspectCategories": [],
-    "AspectTerms": []
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 15988315,
     "ID": 0,
     "Content": "màn hình xài tốt",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn hình"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15988315,
     "ID": 1,
     "Content": "không lỗi lầm",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "lỗi"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "lỗi"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15988315,
     "ID": 2,
     "Content": "bữa mình đặt giao nhanh nên trong sáng đã giao",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "giao"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "giao"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15988315,
     "ID": 3,
     "Content": "rất hài lòng",
-    "AspectCategories": [],
-    "AspectTerms": []
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 15042669,
     "ID": 0,
     "Content": "màn hình dùng tốt trong tầm giá",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màn hình",
-      "giá"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn hình",
+          "giá"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 0,
     "Content": "good monitor for good price pros high quality image",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "monitor",
-      "price",
-      "image quality"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "monitor",
+          "price",
+          "image"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 1,
     "Content": "affordable",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "price"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "affordable"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 2,
     "Content": "fast delivery",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "delivery"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "delivery"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 3,
     "Content": "durable pieces",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "durability"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "durable"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 4,
     "Content": "lightweight",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "weight"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "lightweight"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 5,
     "Content": "packaged securely",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "packaging"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "packaged"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 6,
     "Content": "easy to assemble",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "assembly"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "assemble"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 7,
     "Content": "includes headphone port cons short power cord",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "headphone port",
-      "power cord"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "headphone port",
+          "power cord"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 8,
     "Content": "power controls are in the back and are difficult to reach",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "power controls"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "power controls"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 9,
     "Content": "you probably need an extension power cable",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "power cable"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "power cable"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 10,
     "Content": "neutral like many external monitors it has no speakers",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "speakers"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "speakers"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 11,
     "Content": "you might need headphones",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "audio"
-    ]
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 14297497,
     "ID": 12,
     "Content": "overall good product for the price but you need external accessories to make full use of it",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "price",
-      "accessories"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "product",
+          "price",
+          "accessories"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15960268,
     "ID": 0,
     "Content": "chất lượng rất ổn luôn nha",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chất lượng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chất lượng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15960268,
     "ID": 1,
     "Content": "lắp đặt và sử dụng đơn giản",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "lắp đặt",
-      "sử dụng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "lắp đặt",
+          "sử dụng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15960268,
     "ID": 2,
     "Content": "rất phù hợp cho các bạn làm văn phòng",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "phù hợp"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "phù hợp"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15369414,
     "ID": 0,
     "Content": "hàng full box",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15369414,
     "ID": 1,
     "Content": "tiki now nên giao trong ngày",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "giao hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "giao"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15369414,
     "ID": 2,
     "Content": "asus thì hàng ngon rồi không kém dell là mấy",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15369414,
     "ID": 3,
     "Content": "nói chung ổn với giá tiền",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "giá tiền"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "giá tiền"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14961122,
     "ID": 0,
     "Content": "màn hình sắc nét",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn hình"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 14961122,
     "ID": 1,
     "Content": "màu sắc chân thực nhưng có 1 điểm chết",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màu sắc",
-      "điểm chết"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màu sắc",
+          "điểm chết"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 17805689,
     "ID": 0,
     "Content": "đẹp",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": []
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "đẹp"
+        ]
+      }
+    ]
   },
   {
     "GeneralFeedbackID": 17805689,
     "ID": 1,
     "Content": "chất lượng",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chất lượng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chất lượng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 17805689,
     "ID": 2,
     "Content": "giao hàng nhanh",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "giao hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "giao hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15912960,
     "ID": 0,
     "Content": "sản phẩm rất ổn! dùng đỡ mỏi mắt hẳn",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "sản phẩm",
-      "mỏi mắt"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "sản phẩm",
+          "mỏi mắt"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 16933124,
     "ID": 0,
     "Content": "ok good",
-    "AspectCategories": [],
-    "AspectTerms": []
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 14235954,
     "ID": 0,
     "Content": "màn đẹp nhưng giao hàng lâu",
-    "AspectCategories": [
-      "Về Sản Phẩm",
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "màn hình",
-      "giao hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn"
+        ]
+      },
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "giao hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 16101372,
     "ID": 0,
     "Content": "ok",
-    "AspectCategories": [],
-    "AspectTerms": []
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 16041599,
     "ID": 0,
     "Content": "ok",
-    "AspectCategories": [],
-    "AspectTerms": []
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 13706009,
     "ID": 0,
     "Content": "sản phẩm ok",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "sản phẩm"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "sản phẩm"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19684714,
     "ID": 0,
     "Content": "ship hơi lâu",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "ship"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "ship"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 19684714,
     "ID": 1,
     "Content": "màn đẹp",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 0,
     "Content": "mình đã dùng được khoảng 2 tuần",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "sử dụng"
-    ]
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 1,
     "Content": "tiki giao hàng rất nhanh",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "giao hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "giao hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 2,
     "Content": "giá cũng tốt",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "giá"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "giá"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 3,
     "Content": "mình dùng màn hình này làm màn hình phụ",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn hình"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 4,
     "Content": "đáp ứng tốt nhu cầu đọc nghiên cứu và làm việc văn phòng vì có thể arrange nhiều windows thoải mái",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "đáp ứng nhu cầu",
-      "arrange windows"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "đáp ứng nhu cầu",
+          "arrange windows"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 5,
     "Content": "về nhu cầu giải trí thì 7",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "giải trí"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "giải trí"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 6,
     "Content": "510",
-    "AspectCategories": [],
-    "AspectTerms": []
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 7,
     "Content": "với những video tối thì xem không thích lắm",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "xem video"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "video tối"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 8,
     "Content": "và độ smooth màu không cao",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "độ smooth màu"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "smooth màu"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 9,
     "Content": "loa được nhưng không hay dùng làm",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "loa"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "loa"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 10,
     "Content": "có cái đế to",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "đế"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "đế"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 11,
     "Content": "tốn diện tích một tí nhưng có vẻ chắc chắn hơn",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "đế"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "diện tích",
+          "chắc chắn"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15283941,
     "ID": 12,
     "Content": "chênh lệch màu sắc giữa màn hình phụ và màn hình laptop tạm chấp nhận được vì mình chưa có yêu cầu nhiều và tự chỉnh thấy oải quá tấm nền ips nên chấp nhận chuyện hở sáng thôi ạ",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màu sắc",
-      "tấm nền ips",
-      "hở sáng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chênh lệch màu sắc",
+          "màn hình",
+          "tấm nền ips",
+          "hở sáng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 13045991,
     "ID": 0,
     "Content": "mình vừa nhận đc màn hình chiều nay từ shop",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "nhận hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "nhận"
+        ]
+      },
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn hình"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 13045991,
     "ID": 1,
     "Content": "giờ mở lên xem thì có ngay cái gạch này",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "lỗi sản phẩm"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "gạch"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 13045991,
     "ID": 2,
     "Content": "lại còn hở sáng khủng khiếp",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "hở sáng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "hở sáng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 13045991,
     "ID": 3,
     "Content": "vui lòng xử lý giùm mình",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "xử lý"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "xử lý"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 13045991,
     "ID": 4,
     "Content": "chờ từ 611 tới giờ 4 ngày mà ko thấy 1 phản hồi nào từ shop",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "phản hồi"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "phản hồi"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 13045991,
     "ID": 5,
     "Content": "chán cho lên 5 để shop vừa lòng",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "đánh giá"
-    ]
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 0,
     "Content": "xem review so sánh nhiều",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "review"
-    ]
+    "Aspects": []
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 1,
     "Content": "cuối cùng chọn màn này thay vì dell u",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 2,
     "Content": "chất màu ngon",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chất màu"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chất màu"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 3,
     "Content": "dùng chỉnh ảnh khá là ưng",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chỉnh ảnh"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chỉnh ảnh"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 4,
     "Content": "ưng nhất vẫn là tỉ lên 1610",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "tỉ lệ màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "tỉ lệ"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 5,
     "Content": "màn rộng hẳn",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "kích thước màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 6,
     "Content": "chỉnh ảnh",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chỉnh ảnh"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chỉnh ảnh"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 7,
     "Content": "làm việc các phần mềm kỹ thuật",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "sử dụng phần mềm"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "phần mềm kỹ thuật"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 8,
     "Content": "chia đôi màn hình đều lợi về chiều cao",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chia màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chia đôi màn hình",
+          "chiều cao"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 9,
     "Content": "nhờ cái tỉ lệ này nên chiều cao màn cao gần bằng con 27",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "tỉ lệ màn hình",
-      "kích thước màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "tỉ lệ",
+          "chiều cao màn"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 10,
     "Content": "độ sáng con này hơn dell u kha khá",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "độ sáng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "độ sáng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 11,
     "Content": "thích hợp làm việc khu vực nhiều ánh sáng hơn so với dell",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "độ sáng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "làm việc",
+          "ánh sáng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 12,
     "Content": "về thẩm mỹ thì tạm được",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "thẩm mỹ"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "thẩm mỹ"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 13,
     "Content": "không đẹp bằng dell u",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "thẩm mỹ"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "đẹp"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 14,
     "Content": "dell cho viền mỏng hơn con proart này",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "viền màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "viền"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 15,
     "Content": "chân đế dễ nâng hạ",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chân đế"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chân đế"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 12851085,
     "ID": 16,
     "Content": "chỉnh góc nghiêng hoặc bắt arm đằng sau cũng được",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chân đế",
-      "góc nghiêng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chỉnh góc nghiêng",
+          "bắt arm"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 18742451,
     "ID": 0,
     "Content": "hàng ngon",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "chất lượng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 18742451,
     "ID": 1,
     "Content": "nhưng trừ khi thật sự cần mầu chuẩn",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màu sắc"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "mầu chuẩn"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 18742451,
     "ID": 2,
     "Content": "nếu không có thể mua xiaomi có 3tr mầu cũng rất ổn hay thêm tiền mua 4k 27inch khác",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "giá",
-      "độ phân giải",
-      "kích thước màn hình"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "mầu",
+          "4k",
+          "27inch"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 18742451,
     "ID": 3,
     "Content": "nếu thật sự cần mầu chuẩn cho làm đồ hoạ thì tầm giá này cũng rẻ nhất rồi",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "màu sắc",
-      "giá"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "mầu chuẩn",
+          "làm đồ hoạ"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15495723,
     "ID": 0,
     "Content": "màn mình mua 261 dùng đến 102 thì nguồn chết mở ko lên",
-    "AspectCategories": [
-      "Về Sản Phẩm"
-    ],
-    "AspectTerms": [
-      "lỗi nguồn"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn",
+          "nguồn"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15495723,
     "ID": 1,
     "Content": "gọi lên ttbh asus thì đc bảo là màn mua sd chưa đến 1th thì có thể liên hệ đại lý mua để đổi màn mới",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "bảo hành",
-      "đổi sản phẩm"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "bảo hành",
+          "đổi màn"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15495723,
     "ID": 2,
     "Content": "sau đó m gọi lên cskh tiki thì tiki bảo là sẽ cho nhân viên đến nhà bảo hànhchứ ko nói gì về đổi hàng",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "bảo hành",
-      "đổi hàng"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "cskh",
+          "bảo hành",
+          "đổi hàng"
+        ]
+      }
     ]
   },
   {
     "GeneralFeedbackID": 15495723,
     "ID": 3,
     "Content": "cuối cùng m gọi lại cho tổng đài asus thì dc hd đến ttbh asus ở tp mình",
-    "AspectCategories": [
-      "Về Dịch Vụ"
-    ],
-    "AspectTerms": [
-      "bảo hành"
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "tổng đài",
+          "bảo hành"
+        ]
+      }
     ]
   },
-{
-  "GeneralFeedbackID": 15495723,
-  "ID": 4,
-  "Content": "màn thì bên asus bảo hiện tại chưa có nhưng chắc chắn sẽ đổi màn mới cho mình màn hỏng dc asus thay nguồn khác để dùng tạm ps check sn thì thấy màn bị trôi bh hơn 1th so vs tgian mình mua",
-  "AspectCategories": [
-    "Về Dịch Vụ",
-    "Về Sản Phẩm"
-  ],
-  "AspectTerms": [
-    "đổi sản phẩm",
-    "bảo hành",
-    "lỗi màn hình"
-  ]
-},
-{
-  "GeneralFeedbackID": 19303056,
-  "ID": 0,
-  "Content": "màn dùng ngoan như ko hiểu sao lúc mở hộp có mùi khép",
-  "AspectCategories": [
-    "Về Sản Phẩm"
-  ],
-  "AspectTerms": [
-    "chất lượng",
-    "mùi"
-  ]
-},
-{
-  "GeneralFeedbackID": 19303056,
-  "ID": 1,
-  "Content": "mùi cháy tỏa ra trong màng liệu có phải màng đã bị cháy hay sao nữa",
-  "AspectCategories": [
-    "Về Sản Phẩm"
-  ],
-  "AspectTerms": [
-    "mùi",
-    "lỗi sản phẩm"
-  ]
-},
-{
-  "GeneralFeedbackID": 17551150,
-  "ID": 0,
-  "Content": "chất lượng màn hình tốt",
-  "AspectCategories": [
-    "Về Sản Phẩm"
-  ],
-  "AspectTerms": [
-    "chất lượng màn hình"
-  ]
-},
-{
-  "GeneralFeedbackID": 17551150,
-  "ID": 1,
-  "Content": "mình ở hn",
-  "AspectCategories": [],
-  "AspectTerms": []
-},
-{
-  "GeneralFeedbackID": 17551150,
-  "ID": 2,
-  "Content": "vừa mua xong",
-  "AspectCategories": [
-    "Về Dịch Vụ"
-  ],
-  "AspectTerms": [
-    "mua hàng"
-  ]
-},
-{
-  "GeneralFeedbackID": 17551150,
-  "ID": 3,
-  "Content": "nhưng không còn nhu cầu dùng",
-  "AspectCategories": [],
-  "AspectTerms": []
-},
-{
-  "GeneralFeedbackID": 17551150,
-  "ID": 4,
-  "Content": "ae nào muốn mua lại call telegram datvv mình pass lại cho giá rẻ nhé ạ",
-  "AspectCategories": [],
-  "AspectTerms": []
-}
+  {
+    "GeneralFeedbackID": 15495723,
+    "ID": 4,
+    "Content": "màn thì bên asus bảo hiện tại chưa có nhưng chắc chắn sẽ đổi màn mới cho mình màn hỏng dc asus thay nguồn khác để dùng tạm ps check sn thì thấy màn bị trôi bh hơn 1th so vs tgian mình mua",
+    "Aspects": [
+      {
+        "AspectCategory": "Về Dịch Vụ",
+        "AspectTerms": [
+          "đổi màn",
+          "bảo hành"
+        ]
+      },
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn",
+          "nguồn"
+        ]
+      }
+    ]
+  },
+  {
+    "GeneralFeedbackID": 19303056,
+    "ID": 0,
+    "Content": "màn dùng ngoan như ko hiểu sao lúc mở hộp có mùi khép",
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "màn",
+          "mùi"
+        ]
+      }
+    ]
+  },
+  {
+    "GeneralFeedbackID": 19303056,
+    "ID": 1,
+    "Content": "mùi cháy tỏa ra trong màng liệu có phải màng đã bị cháy hay sao nữa",
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "mùi cháy",
+          "màng"
+        ]
+      }
+    ]
+  },
+  {
+    "GeneralFeedbackID": 17551150,
+    "ID": 0,
+    "Content": "chất lượng màn hình tốt",
+    "Aspects": [
+      {
+        "AspectCategory": "Về Sản Phẩm",
+        "AspectTerms": [
+          "chất lượng màn hình"
+        ]
+      }
+    ]
+  },
+  {
+    "GeneralFeedbackID": 17551150,
+    "ID": 1,
+    "Content": "mình ở hn",
+    "Aspects": []
+  },
+  {
+    "GeneralFeedbackID": 17551150,
+    "ID": 2,
+    "Content": "vừa mua xong",
+    "Aspects": []
+  },
+  {
+    "GeneralFeedbackID": 17551150,
+    "ID": 3,
+    "Content": "nhưng không còn nhu cầu dùng",
+    "Aspects": []
+  },
+  {
+    "GeneralFeedbackID": 17551150,
+    "ID": 4,
+    "Content": "ae nào muốn mua lại call telegram datvv mình pass lại cho giá rẻ nhé ạ",
+    "Aspects": []
+  }
 ]
