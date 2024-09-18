@@ -1,0 +1,11 @@
+Process the following JSON data for ABSA:
+- Include the original columns: "GeneralFeedbackID", "ID", "Content"
+- Extract AspectCategory (only use "Về Dịch Vụ" or "Về Sản Phẩm")
+- Identify AspectTerm(s)
+
+Note: Each entry can have multiple AspectCategories and AspectTerms.
+
+Input JSON:
+[Paste your JSON data here]
+
+Please provide the output in JSON format only, containing GeneralFeedbackID, ID, Content, AspectCategories (array), and AspectTerms (array) for each entry.
