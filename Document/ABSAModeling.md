@@ -1,4 +1,4 @@
-# ABSA Modeling for Vietnamese Feedback Dataset
+# ABSA Modeling
 
 ## 1. Introduction
 
@@ -51,8 +51,8 @@ The chosen method (manual or model-based) will be used to label the remaining 3,
 ```mermaid
 graph TD
     A[Start] --> B[Manually Label 1,000 Records]
-    B --> C[Train Wonrax Model]
-    C --> D[Apply Model to 4,400 Records]
+    B --> |800 samples| C[Train Wonrax Model]
+    C --> |200 samples| D[Apply Model to 4,400 Records]
     D --> E{Compare Results}
     E -->|Model Better| F[Use Model for Remaining 3,400]
     E -->|Manual Better| G[Manually Label Remaining 3,400]
