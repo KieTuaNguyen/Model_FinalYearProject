@@ -29,16 +29,16 @@ I will employ two approaches for data labeling:
 
 #### 3.1.1 Manual Labeling
 
-- Number of records: 1,000
+- Number of records: 1,100
 - Includes: Aspect categories and aspect terms
-- Seed: 10 (for reproducibility)
+- Seed: 15 (for reproducibility)
 
 #### 3.1.2 Model-based Labeling
 
 - Model: Wonrax
-- Training data: Initial 1,000 manually labeled records
+- Training data: Initial 1,100 manually labeled records
 - Application: 4,400 records (development subset)
-- Seed: 10 (for reproducibility)
+- Seed: 15 (for reproducibility)
 
 #### 3.1.3 Comparison and Decision
 
@@ -50,9 +50,9 @@ The chosen method (manual or model-based) will be used to label the remaining 3,
 
 ```mermaid
 graph TD
-    A[Start] --> B[Manually Label 1,000 Records]
-    B --> |800 samples| C[Train Wonrax Model]
-    C --> |200 samples| D[Apply Model to 4,400 Records]
+    A[Start] --> B[Manually Label 1,100 Records]
+    B --> |880 samples| C[Train Wonrax Model]
+    C --> |220 samples| D[Apply Model to 4,400 Records]
     D --> E{Compare Results}
     E -->|Model Better| F[Use Model for Remaining 3,400]
     E -->|Manual Better| G[Manually Label Remaining 3,400]
@@ -74,14 +74,12 @@ The aspect categories and terms will be extracted during the labeling process, w
 ## 4. Implementation Plan
 
 1. Prepare the development subset (4,400 records)
-2. Manually label 1,000 records
-3. Train the Wonrax model on the 1,000 manually labeled records
-4. Apply the trained model to the 4,400 records development subset
-5. Compare manual and model-based labeling results
-6. Choose the best-performing method based on accuracy
-7. Label the remaining 3,400 records using the chosen method
-8. Train the Wonrax model for aspect term polarity classification
-9. Evaluate the final model's performance
+2. Manually label 1,100 records
+3. Train the Wonrax model on the 1,100 samples 
+4. Choose the best-performing method based on accuracy
+5. Label the remaining 3,300 records using the chosen method
+6. Train the Wonrax model for aspect term polarity classification
+7. Evaluate the final model's performance
 
 ## 5. Evaluation Metrics
 
