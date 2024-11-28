@@ -98,7 +98,7 @@ def test_model(model_path, test_json_file):
 
 # Example usage of the test module
 if __name__ == "__main__":
-    model_path = "sample_data/Sep23"  # Path to the trained model directory
+    model_path = "FlexiModel"  # Path to the trained model directory
     test_json_file = "label_subset.json"  # Path to the test JSON file
 
     test_model(model_path, test_json_file)
